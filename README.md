@@ -5,7 +5,9 @@
 - Git basics
 - Version control
 - Collaboration with team
-## Features
-- Dark mode toggle
-- Responsive design
-- Clean UI
+## Features 
+- Interactive dark mode toggle 
+- Responsive and modern UI design 
+- Clean interface 
+- Fast loading 
+
